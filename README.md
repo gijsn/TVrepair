@@ -3,7 +3,7 @@
 
 Hi all, 
 After an evening of wathcing TV suddenly the TV stopped working showing short flashes and later, after a reboot, nothing at all.
-The next day, I spend a long afternoon troubleshooting and fixing the TV using the repair manual you can find in this repo.
+The next day, I spend a long afternoon troubleshooting and fixing the TV using the repair manual you can find in this repo. I got it from https://www.manualslib.com/manual/1072511/Philips-40pfl8008k-12.html#manual, which might be better as some paged in the PDF are misaligned and fall off the page edge
 
 First step, as always, look for any obvious burnt spots on the boards, and then, thou shall measure voltages. Removing the back cover, you find two flatflexes connected to the back cover supplying the ambilight. The flatflex cables can stay connected as long as you have enough space to fit both the TV and cover in a single area. I used the kitchen table to make it work. This is what we found:
 
